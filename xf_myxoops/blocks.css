@@ -1,0 +1,144 @@
+/*  
+Theme Name: xf_myxoops
+Theme URI: http://xoopsfactory.com 
+Description: just another clone from a CSS XOPS theme of mine <a href="http://xoopsfactory.com">XOOPS FACTORY</a>.
+Version: 1.0 | 15.04.2006
+Author: Michael Hokamp [aka studioC] 
+Author URI: http://hokamp.info
+*/
+
+div.ltitle {
+padding:0px;
+width:150px;
+background : #24446B;
+color: #fff;
+border-top: 4px solid #fff; 
+border-bottom: 4px solid #fff;
+}
+div.ltitle h3 {
+padding-left: 10px;
+font-size:10px;
+padding-top: 5px;
+padding-bottom: 5px;
+font-weight:normal;
+text-transform:uppercase;
+}
+div.lblockcontent {
+background: #DAE4EC;
+padding:10px;
+border-bottom: 8px solid #fff;
+}
+div.lblockcontent b {
+color: #fff;
+}
+div.lblockcontent a:hover {font-weight:bold;}
+
+
+
+
+div.rtitle {
+padding: 0px;
+width: 150px;
+background : #DAE4EC;
+border-top: 4px solid #fff; 
+border-left: 0px solid #fff; 
+border-bottom: 4px solid #fff;
+}
+div.rtitle h3 {
+padding-left: 10px;
+font-size:10px;
+padding-top: 5px;
+padding-bottom: 5px;
+font-weight:normal;
+text-transform:uppercase;
+}
+div.rblockcontent {
+font-size: 11px;
+color: #fff;
+padding: 10px;
+background : url(images/rechtsbg.gif) #24446B top left repeat-y;;
+margin-bottom: 10px;
+border-bottom: 8px solid #fff;
+}
+div.rblockcontent a {
+color: #fff;
+}
+div.rblockcontent a:hover {
+color: #fc0;
+}
+div.rblockcontent b {
+color: #fc0;
+}
+/* end right block settings */
+
+
+
+
+
+.centerblocktitle h3{
+color:#333;
+font-size:14px;
+padding-top:15px;
+}
+.centerblockcontent {
+background: url(images/centerlogobg.gif) top right no-repeat;
+}
+div.ccenterblockcontent {
+padding-bottom: 15px;
+}
+#modulcontent a:hover {
+color: #000;
+background: transparent;
+}
+#mainmenu a {
+display:block;
+color: #333;
+}
+#mainmenu a:hover {
+display:block;
+color: #000;
+background: transparent;
+}
+.mainmenu {
+color: #000;
+}
+:hover.mainmenu  {
+color: #000;
+font-weight: bold;
+background: transparent;
+}
+.menuSub {
+background: url(submenu.gif) no-repeat left center;
+padding-left:15px;
+color: #fff;
+}
+#usermenu a {
+display:block;
+color: #333;
+}
+#usermenu a:hover {
+display:block;
+color: #000;
+background: transparent;
+}
+.outer th {
+padding:4px;
+background-color: #666; 
+color: #fff; 
+}
+.outer th a{
+font-size: 13px;
+padding:4px;
+padding-left:2px;
+background-color: #666; 
+color: #fff; 
+}
+.outer {border: 0px solid silver;width:100%;}
+.head {background-color: #ccc; padding: 4px;font-weight: normal; color:#111;}
+.even {background-color: #f1f1f1; padding: 2px;}
+.odd {background-color: #f6f6f6; padding: 2px;}
+.foot {background-color: #f6f6f6; padding: 2px; font-weight: bold;}
+tr.even td {background-color: #f1f1f1; padding: 2px;}
+tr.odd td {background-color: #f6f6f6; padding: 2px;}
+
+/* This CSS is part of the xf_mxoops XOOPS theme from michael [aka studioC] <a href="http://xoopsfactory.com">XOOPS FACTORY</a> */
